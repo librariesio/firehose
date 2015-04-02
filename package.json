@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Libraries Firehose",
   "main": "app.js",
+  "engines": {
+    "node": "0.12.x"
+  },
   "scripts": {
     "start": "DEBUG=firehose nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
