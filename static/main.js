@@ -7,6 +7,8 @@ evtSource.addEventListener('pkg', function(evt) {
   var pkg = JSON.parse(evt.data);
   console.debug('pkg:', pkg);
 
-  newElement.innerHTML = '['+ pkg.platform +'] New Package: ' + pkg.name;
+  var html = '['+ pkg.platform +'] '+ pkg.name +' '+ pkg.version;
+
+  newElement.innerHTML = html;
   eventList.appendChild(newElement);
 }, false);
