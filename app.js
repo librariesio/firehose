@@ -8,6 +8,7 @@ var bodyParser   = require('body-parser');
 var serve_static = require('serve-static');
 var debug        = require('debug')('firehose');
 var router       = require('./lib/router');
+var cors         = require('cors')
 
 var app = express();
 app.use(bodyParser.json());
@@ -17,7 +18,7 @@ app.use(bodyParser.urlencoded({
 }));
 
 app.post('/events', router.firehose.rx);
-app.get('/events',  router.firehose.tx);
+app.get('/events', cors(), router.firehose.tx);
 
 var port = process.env.PORT || 5001;
 app.listen(port, function() {
