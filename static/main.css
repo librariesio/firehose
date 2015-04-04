@@ -29,6 +29,10 @@ footer{
   color: #999;
 }
 
+.media-heading {
+  line-height:1;
+}
+
 .facets{
   ul{
     padding-left: 0px;
