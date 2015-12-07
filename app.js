@@ -1,7 +1,7 @@
 /*jshint strict:true, trailing:false, unused:true, node:true */
 'use strict';
 
-require("babel/register");
+require("babel-register");
 
 var express      = require('express');
 var bodyParser   = require('body-parser');
@@ -13,8 +13,8 @@ var cors         = require('cors')
 var app = express();
 app.use(bodyParser.json());
 app.use(serve_static('static'));
-app.use(bodyParser.urlencoded({ 
-  extended: true 
+app.use(bodyParser.urlencoded({
+  extended: true
 }));
 
 app.post('/events', router.firehose.rx);
