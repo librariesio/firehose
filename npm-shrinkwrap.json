@@ -252,9 +252,9 @@
       "resolved": "https://registry.npmjs.org/end-of-stream/-/end-of-stream-1.0.0.tgz"
     },
     "es6-promise": {
-      "version": "3.1.2",
+      "version": "3.2.1",
       "from": "es6-promise@>=3.0.2 <4.0.0",
-      "resolved": "https://registry.npmjs.org/es6-promise/-/es6-promise-3.1.2.tgz"
+      "resolved": "https://registry.npmjs.org/es6-promise/-/es6-promise-3.2.1.tgz"
     },
     "escape-html": {
       "version": "1.0.3",
