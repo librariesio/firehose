@@ -73,9 +73,9 @@
       "resolved": "https://registry.npmjs.org/babel-core/-/babel-core-6.9.1.tgz"
     },
     "babel-generator": {
-      "version": "6.9.0",
+      "version": "6.10.0",
       "from": "babel-generator@>=6.9.0 <7.0.0",
-      "resolved": "https://registry.npmjs.org/babel-generator/-/babel-generator-6.9.0.tgz"
+      "resolved": "https://registry.npmjs.org/babel-generator/-/babel-generator-6.10.0.tgz"
     },
     "babel-helpers": {
       "version": "6.8.0",
@@ -108,9 +108,9 @@
       "resolved": "https://registry.npmjs.org/babel-traverse/-/babel-traverse-6.9.0.tgz"
     },
     "babel-types": {
-      "version": "6.9.1",
+      "version": "6.10.0",
       "from": "babel-types@>=6.9.1 <7.0.0",
-      "resolved": "https://registry.npmjs.org/babel-types/-/babel-types-6.9.1.tgz"
+      "resolved": "https://registry.npmjs.org/babel-types/-/babel-types-6.10.0.tgz"
     },
     "babylon": {
       "version": "6.8.1",
@@ -250,6 +250,11 @@
       "version": "1.1.1",
       "from": "ee-first@1.1.1",
       "resolved": "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz"
+    },
+    "encodeurl": {
+      "version": "1.0.1",
+      "from": "encodeurl@>=1.0.1 <1.1.0",
+      "resolved": "https://registry.npmjs.org/encodeurl/-/encodeurl-1.0.1.tgz"
     },
     "end-of-stream": {
       "version": "1.0.0",
@@ -1592,9 +1597,9 @@
       }
     },
     "serve-static": {
-      "version": "1.11.0",
+      "version": "1.11.1",
       "from": "serve-static@>=1.10.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/serve-static/-/serve-static-1.11.0.tgz",
+      "resolved": "https://registry.npmjs.org/serve-static/-/serve-static-1.11.1.tgz",
       "dependencies": {
         "http-errors": {
           "version": "1.5.0",
@@ -1607,9 +1612,9 @@
           "resolved": "https://registry.npmjs.org/range-parser/-/range-parser-1.2.0.tgz"
         },
         "send": {
-          "version": "0.14.0",
-          "from": "send@0.14.0",
-          "resolved": "https://registry.npmjs.org/send/-/send-0.14.0.tgz"
+          "version": "0.14.1",
+          "from": "send@0.14.1",
+          "resolved": "https://registry.npmjs.org/send/-/send-0.14.1.tgz"
         }
       }
     },
