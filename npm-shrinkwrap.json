@@ -239,7 +239,8 @@
     },
     "duplexer": {
       "version": "0.1.1",
-      "from": "duplexer@>=0.1.1 <0.2.0"
+      "from": "duplexer@>=0.1.1 <0.2.0",
+      "resolved": "https://registry.npmjs.org/duplexer/-/duplexer-0.1.1.tgz"
     },
     "duplexify": {
       "version": "3.4.3",
@@ -287,9 +288,9 @@
       "resolved": "https://registry.npmjs.org/etag/-/etag-1.7.0.tgz"
     },
     "event-stream": {
-      "version": "3.3.2",
+      "version": "3.3.3",
       "from": "event-stream@>=3.3.0 <3.4.0",
-      "resolved": "https://registry.npmjs.org/event-stream/-/event-stream-3.3.2.tgz"
+      "resolved": "https://registry.npmjs.org/event-stream/-/event-stream-3.3.3.tgz"
     },
     "eventemitter3": {
       "version": "1.2.0",
@@ -360,7 +361,8 @@
     },
     "from": {
       "version": "0.1.3",
-      "from": "from@>=0.0.0 <1.0.0"
+      "from": "from@>=0.0.0 <1.0.0",
+      "resolved": "https://registry.npmjs.org/from/-/from-0.1.3.tgz"
     },
     "fsevents": {
       "version": "1.0.12",
@@ -1258,7 +1260,8 @@
     },
     "map-stream": {
       "version": "0.1.0",
-      "from": "map-stream@>=0.1.0 <0.2.0"
+      "from": "map-stream@>=0.1.0 <0.2.0",
+      "resolved": "https://registry.npmjs.org/map-stream/-/map-stream-0.1.0.tgz"
     },
     "media-typer": {
       "version": "0.3.0",
@@ -1351,7 +1354,8 @@
     },
     "nopt": {
       "version": "1.0.10",
-      "from": "nopt@>=1.0.10 <1.1.0"
+      "from": "nopt@>=1.0.10 <1.1.0",
+      "resolved": "https://registry.npmjs.org/nopt/-/nopt-1.0.10.tgz"
     },
     "normalize-path": {
       "version": "2.0.1",
@@ -1430,7 +1434,8 @@
     },
     "pause-stream": {
       "version": "0.0.11",
-      "from": "pause-stream@0.0.11"
+      "from": "pause-stream@0.0.11",
+      "resolved": "https://registry.npmjs.org/pause-stream/-/pause-stream-0.0.11.tgz"
     },
     "pinkie": {
       "version": "2.0.4",
@@ -1586,7 +1591,8 @@
     },
     "slide": {
       "version": "1.1.6",
-      "from": "slide@>=1.1.5 <2.0.0"
+      "from": "slide@>=1.1.5 <2.0.0",
+      "resolved": "https://registry.npmjs.org/slide/-/slide-1.1.6.tgz"
     },
     "source-map": {
       "version": "0.5.6",
@@ -1617,7 +1623,8 @@
     },
     "stream-combiner": {
       "version": "0.0.4",
-      "from": "stream-combiner@>=0.0.4 <0.1.0"
+      "from": "stream-combiner@>=0.0.4 <0.1.0",
+      "resolved": "https://registry.npmjs.org/stream-combiner/-/stream-combiner-0.0.4.tgz"
     },
     "string_decoder": {
       "version": "0.10.31",
