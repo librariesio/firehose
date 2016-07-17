@@ -288,9 +288,9 @@
       "resolved": "https://registry.npmjs.org/etag/-/etag-1.7.0.tgz"
     },
     "event-stream": {
-      "version": "3.3.3",
+      "version": "3.3.4",
       "from": "event-stream@>=3.3.0 <3.4.0",
-      "resolved": "https://registry.npmjs.org/event-stream/-/event-stream-3.3.3.tgz"
+      "resolved": "https://registry.npmjs.com/event-stream/-/event-stream-3.3.4.tgz"
     },
     "eventemitter3": {
       "version": "1.2.0",
