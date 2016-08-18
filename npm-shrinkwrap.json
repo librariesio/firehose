@@ -1321,9 +1321,9 @@
       "resolved": "https://registry.npmjs.org/nested-error-stacks/-/nested-error-stacks-1.0.2.tgz"
     },
     "nodemon": {
-      "version": "1.10.0",
+      "version": "1.10.1",
       "from": "nodemon@>=1.8.1 <2.0.0",
-      "resolved": "https://registry.npmjs.org/nodemon/-/nodemon-1.10.0.tgz"
+      "resolved": "https://registry.npmjs.org/nodemon/-/nodemon-1.10.1.tgz"
     },
     "nopt": {
       "version": "1.0.10",
@@ -1481,9 +1481,9 @@
       "resolved": "https://registry.npmjs.org/read-all-stream/-/read-all-stream-3.1.0.tgz"
     },
     "readable-stream": {
-      "version": "2.1.4",
+      "version": "2.1.5",
       "from": "readable-stream@>=2.0.2 <3.0.0",
-      "resolved": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.1.4.tgz"
+      "resolved": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.1.5.tgz"
     },
     "readdirp": {
       "version": "2.1.0",
