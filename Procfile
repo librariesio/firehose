@@ -1,1 +1,1 @@
-web: DEBUG=firehose node app.js
+web: node app.js

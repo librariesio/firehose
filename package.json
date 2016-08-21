@@ -4,22 +4,17 @@
   "description": "Libraries Firehose",
   "main": "app.js",
   "engines": {
-    "node": "6.2.2"
+    "node": "6.3.0"
   },
   "scripts": {
-    "start": "DEBUG=firehose nodemon app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Mauro Pompilio",
   "license": "Private",
   "dependencies": {
-    "babel-register": "^6.3.13",
     "body-parser": "^1.14.1",
     "cors": "^2.7.1",
-    "debug": "^2.2.0",
-    "eventemitter3": "^1.1.1",
-    "express": "^4.13.3",
-    "nodemon": "^1.8.1",
-    "serve-static": "^1.10.0"
+    "eventemitter3": "^1.2.0",
+    "express": "^4.13.3"
   }
 }
