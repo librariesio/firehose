@@ -19,4 +19,4 @@ Report issues/feature requests on [GitHub Issues](http://github.com/librariesio/
 
 ## Copyright
 
-Copyright (c) 2016 Andrew Nesbitt. See [LICENSE](https://github.com/librariesio/firehose/blob/master/LICENSE) for details.
+Copyright (c) 2017 Andrew Nesbitt. See [LICENSE](https://github.com/librariesio/firehose/blob/master/LICENSE) for details.
