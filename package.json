@@ -4,7 +4,7 @@
   "description": "Libraries Firehose",
   "main": "app.js",
   "engines": {
-    "node": "6.3.0"
+    "node": "7.3"
   },
   "scripts": {
     "start": "node app.js"
