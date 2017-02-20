@@ -10,7 +10,7 @@
     "start": "node app.js"
   },
   "author": "Mauro Pompilio",
-  "license": "Private",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.14.1",
     "cors": "^2.7.1",
