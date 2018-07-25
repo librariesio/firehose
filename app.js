@@ -9,6 +9,7 @@ app.use(bodyParser.urlencoded({
   extended: true
 }));
 
+app.get('/', function (req, res) { res.send("OK") })
 app.post('/events', router.firehose.rx);
 app.get('/events', cors(), router.firehose.tx);
 
