@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This project is no longer deployed to https://firehose.libraries.io
+
 # Libraries Firehose
 
 Server sent event bridge for the [Libraries.io](https://libraries.io) events firehose.
